@@ -1,3 +1,3 @@
 # Serverside UKRIM
 
-## Semangat...
+## Mantap jiwa
