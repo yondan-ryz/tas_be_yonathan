@@ -1,0 +1,8 @@
+ukrim\co\id\serversideukrim\service\BukuService.class
+ukrim\co\id\serversideukrim\model\Jenisbuku.class
+ukrim\co\id\serversideukrim\repository\BukuRepository.class
+ukrim\co\id\serversideukrim\repository\JenisbukuRepository.class
+ukrim\co\id\serversideukrim\controller\BukuController.class
+ukrim\co\id\serversideukrim\controller\JenisbukuController.class
+ukrim\co\id\serversideukrim\service\JenisbukuService.class
+ukrim\co\id\serversideukrim\model\Buku.class
